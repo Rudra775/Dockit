@@ -5,3 +5,4 @@ boto3
 docker            
 PyGithub          
 requests          
+sqlalchemy 
